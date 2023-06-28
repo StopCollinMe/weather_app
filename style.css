@@ -1,0 +1,24 @@
+*{
+    font-family: "Bebas Neue";
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4em;
+}
+
+.weatherDiv{
+    display: flex;
+    position: inherit;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1em;
+}
+
+.weatherDiv div{
+    margin-top: 1em;
+    font-family: "Bebas Neue";
+    font-size: 3em;
+}
