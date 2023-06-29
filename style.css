@@ -1,5 +1,14 @@
 *{
     font-family: "Bebas Neue";
+    color: rgb(215, 97, 97);
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(images/aang.jpeg);
 }
 
 form{
@@ -21,4 +30,13 @@ form{
     margin-top: 1em;
     font-family: "Bebas Neue";
     font-size: 3em;
+}
+
+.weatherDiv button{
+    margin-top: 1em;
+    font-family: "Bebas Neue";
+    font-size: 2em;
+}
+.hide{
+    display: none;
 }
